@@ -1,3 +1,3 @@
-# rust-template
+see <https://developer.valvesoftware.com/wiki/VPK_(file_format)#File_Format>
 
-My Rust project template. Feel free to do everything you want with it as this is licensed under WTFPL.
+and <https://developer.valvesoftware.com/wiki/Counter-Strike_2/Maps>
